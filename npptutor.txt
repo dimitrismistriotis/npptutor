@@ -1,0 +1,135 @@
+ __   _  _____   _____  _______ _     _ _______  _____   ______
+ | \  | |_____] |_____]    |    |     |    |    |     | |_____/
+ |  \_| |       |          |    |_____|    |    |_____| |    \_
+
+
+	This tutorial is an attempt to port "vimtutor" in the windows environment, more specially 
+notepad++. The idea originates from the Pragmatic programmer's dogma that each developer in 
+order to increase his productivity should learn one text editor inside out. With vim there is 
+vimtutor, This .txt file aims to do the same with notepadd++.
+
+0. Learn how to "touch" type
+----------------------------
+
+	This is not a strict notepad++ feature, but is the first thing to consider in increasing 
+productivity. This can be achieved by a "blank" keyboard like this: 
+http://www.daskeyboard.com/#slide2
+	A cheaper option is playing some typing games, such as Z-Type:
+http://www.phoboslab.org/ztype/
+
+
+1. Line Operations
+~~~~~~~~~~~~~~~~~~
+
+1.1 Ups and Downs
+~~~~~~~~~~~~~~~~~
+
+You can move a line up and down by holding Ctrl + Shift + Up/Down Arrow.
+
+-------------- Exercise Area -------------------
+
+
+Move this line just before the dashes("-") above and then land it on the bottom ones.
+
+
+-------------- Exercise Area -------------------
+
+In order to exercise, use the appropriate line operators to fix the text below. 
+Remember hands away from mouse and copy/paste.
+
+This should be the fifth  line (5)
+This should be the fourth line (4)
+This should be the second line (2)
+This should be the third line  (3)
+This should be the first line  (1)
+
+1.2 The case
+~~~~~~~~~~~~
+
+Lets introduce upper and lower case-ing. Remember not to use the mouse!
+
+SeLeCt THiS tExT aNd MaKe It LoWeRcAsE, wItH tHe HeLp Of CtRl + U. tHeN fIx It By 
+SeLeCtInG sPeCiFiC lEtTeRs AnD cTrL + sHiFt + U.
+
+1.3 Line joining and spliting
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are still tapping the surface, but even with those small tricks, my productivity has 
+gained a bonus already. An action that happens a lot while coding/working is the need 
+to split a big line into more smaller ones, or the other way round (like when we have 
+comments in different lines, which we want to tide up)
+
+Splitting:
+This is a lont line whose size makes it really unreadable. Wow I can bubble so much. If you want to break it down into multiple lines, use Ctrl + I. See the line numbers changing on the left. More placeholder text here.
+
+Joining:
+
+/* It's lame 
+to waste 5 lines 
+for something 
+so small, 
+select text, 
+then use Ctrl + J */
+
+1.4 More edit short-cuts
+
+Line Duplication (duplicate me twice): Ctrl + D.
+
+    Select and indent these lines further (Tab :-)),
+	then unindent them (Shift + Tab). Then join them.
+
+2. TextFX
+~~~~~~~~~
+
+	The purpose of this set of exersises is to familiarize with the options available 
+in TextFX. Some of them are very useful and were found while writing this text :-) 
+Unfortunately most of them are not accompanied by keyboard shortcuts.
+ 	Feel free to skip sections not related to youu interests (example (X + 1).2 if your 
+day to day tasks do not involve binary arithmetic)
+ 
+2.1 General text
+~~~~~~~~~~~~~~~~
+
+Find the anser and put it after the colon.
+
+Word count this sentence:
+Find the directory of this document:
+
+Insert this line's number:
+
+Bs pbhefr lbh thrffrq vg'f EBG13:
+
+2.2 Binary Arithmetic
+~~~~~~~~~~~~~~~~~~~~~
+
+57005 to hex:
+
+same with 48879 (BSD trick):
+
+etc...
+
+2.3 Text Formating
+~~~~~~~~~~~~~~~~~~
+
+Clean this line from the spaces at the end:                                                                                                                                        
+
+Insert a ruler after this line:
+-- Here --
+
+Swap quotes in one shot (see "Quotation Marks" in 
+http://retinart.net/miscellaneous/grammar/)
+
+'I can’t forget I "can run as fast as lightning" for as long as I need'
+
+3. Macros
+~~~~~~~~~
+
+	TODO;
+
+Appendices 
+~~~~~~~~~~
+
+A. Resources
+
+Banners from ascii text generator found here: http://patorjk.com/software/taag/ 
+fonts used: Cyberlarge (npptutor banner), Cybermedium (chapters).
